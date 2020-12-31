@@ -1,0 +1,139 @@
+@media screen and (min-width: 1280px)
+{
+body
+{
+	display: flex;
+	flex-direction: column;
+	 min-height: 100vh;
+}
+}
+html
+{
+	height: 100%;
+	width: 100%;
+	justify-content: center;
+}
+h1
+{
+	font-family: 'Shrikhand', cursive;
+}
+body
+{
+	justify-content: center;
+	align-items: center;
+	background-color: rgb(229, 227, 227);
+}
+
+ul
+{
+	border: solid;
+	background-color: white;
+	border-radius: 1em;
+	
+	margin: 1em;
+}
+li
+{
+	border: solid;
+	background-color: rgb(246,241,235);
+	border-radius: 1em;
+	margin: 0.5em;
+	padding-left: 3em;
+	list-style-type: decimal;
+}
+h2
+{
+	border-bottom: 1px solid black;
+}
+
+h2 u
+{
+	text-decoration: underline;
+	color: green;
+}
+h3
+{
+	font-weight: bolder;
+}
+h4
+{
+	font-weight: normal;
+}
+.restaurants
+{
+justify-content: center;
+position: 
+line-height: 1em;
+}
+.restaurants img
+{
+	width: 100%;
+	border-radius: 3em 3em 0em 0em;
+}
+.palette
+{
+	border: solid;
+	background-color: white;
+	border-radius: 3em;
+	text-align: center;
+	margin-bottom: 2em;
+	width: 90%;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.note
+{
+	border: solid;
+	background-color: white;
+	border-radius: 3em;
+	text-align: center;
+	margin-bottom: 2em;
+	width: 90%;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.lafrançaise
+{
+	border: solid;
+	background-color: white;
+	border-radius: 3em;
+	text-align: center;
+	margin-bottom: 2em;
+	width: 90%;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.delice
+{
+	border: solid;
+	background-color: white;
+	border-radius: 3em;
+	text-align: center;
+	margin-bottom: 2em;
+	width: 90%;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+footer h2
+{
+	font-family: 'Shrikhand', cursive;
+}
+footer
+{
+	border: solid;
+	border: black;
+	background-color: black;
+	color: white;
+	width: 100%;
+	text-align: center;
+
+}
+footer img
+{
+	height: auto;	
+}
+footer h3
+{
+	font-weight: normal;
+}
